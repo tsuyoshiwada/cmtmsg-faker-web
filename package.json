@@ -1,5 +1,6 @@
 {
   "private": true,
+  "homepage": "https://tsuyoshiwada.github.io/cmtmsg-faker-web/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
